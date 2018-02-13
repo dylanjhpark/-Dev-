@@ -1,4 +1,4 @@
-##  핵심운영팀
+##  핵심운영팀 공유 블로그
 
 You can use the [editor on GitHub](https://github.com/dylanjhpark/haxim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
